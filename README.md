@@ -2,7 +2,6 @@
 
 AI Tutor is a sophisticated RAG (Retrieval-Augmented Generation) application designed to transform how you interact with educational content. By leveraging the power of **Llama 3 (via Groq)**, **FAISS**, and **Hugging Face Embeddings**, it provides a seamless interface for deep document understanding, automated quiz generation, and structured learning paths.
 
-[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-tutor-retrieval-augmented-learning-system.streamlit.app/)
 
 ## Core Features
 
@@ -87,4 +86,5 @@ AI-Tutor/
 
 ---
 
-Sai Buvanesh
+Kathiravan 
+
